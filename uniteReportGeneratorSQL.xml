@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+uniteReportGeneratorSQL
+</name>
+</assembly>
+<members>
+<member name="M:uniteReportGeneratorSQL.com.garethwright.UniteReportsMSSQL.GetReportSQL(System.String,System.String)">
+	<summary>
+ Returns the SQL for a Unit-e report created in report generator, allowing development of custom tools whilst preserving editablity by non .net savvy staff
+ </summary>
+	<param name="reportReference">Report Generator - Report Reference</param>
+	<param name="connectionString">Connection String e.g. </param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:uniteReportGeneratorSQL.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:uniteReportGeneratorSQL.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:uniteReportGeneratorSQL.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
